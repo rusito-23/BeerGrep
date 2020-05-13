@@ -1,10 +1,10 @@
 # Objective C
 
-## Disclaimer
+## Disclaimer
 
 I'm not an expert in this field, this project is part of an introductory course for Objective C. It most likely has mistakes and needs to be polished.
 
-## Intro
+## Intro
 
 **Objective C** is an object-oriented programming language based in C and SmallTalk (mostly C, hence the name). It can incorporate C/C++ code blocks, which makes it very versatile.
 
@@ -174,7 +174,7 @@ Objective C has many kind of files and declarations that we can use for differen
 	
 	This can be useful to perform Unit Tests, if we need to check internal states from the class we are testing, we can define the extension and we'll be able to peak into these things.
 
-## In Objective c, properties have properties
+## In Objective c, properties have properties
 
 Ok this is weird, and one of the most difficult and ambigous part of learning Objective C. When a class declares a property, there are several functionalities we can define, so don't freak out if you see things like:
 
@@ -204,14 +204,14 @@ Some of the most important are:
 
 Blocks are very useful as they define functions which we can use to perform callbacks, save a behavior in a property and much much more. The syntax can easily become a gross mess, but here is a quick cheatsheet: [http://fuckingblocksyntax.com]().
 
-## TODO:
+## TODO:
 
 - Building the UI (storyboards, interface builders, programmaticaly)
 - explaining an XCode project
 - UIKit stuff
 
 
-## USEFUL LINKS
+## USEFUL LINKS
 
 - [Fuck*** Block Syntax](http://fuckingblocksyntax.com)
 - [What if wanna try some stuff?](https://www.tutorialspoint.com/compile_objective-c_online.php)
