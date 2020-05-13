@@ -1,0 +1,50 @@
+/* 
+  Strings.strings
+  ObjectiveNoLoSe
+
+  Created by Igor Andruskiewitsch on 4/26/20.
+  Copyright © 2020 rusito23. All rights reserved.
+*/
+
+/*
+GENERAL
+*/
+
+"APP_TITLE" = "Beer Grep";
+"LOADING" = "Loading cold beers ...";
+
+"KIND_LABEL" = "Kind";
+"IBU_LABEL"  = "IBU";
+
+/*
+CARIBBEAN
+*/
+
+"CARIBBEAN_NAME" = "Carribean";
+"CARIBBEAN_DESC" = "Using Maris Otter, Cara and Crystal Rye malts for a gorgeous orange sunset colour, they added pineapple, orange and passionfruit to give it exotic Caribbean fruity flavours. Summit, Chinook and Mandarina Bavaria hops were then added to create this hoppy full-bodied blonde.";
+"CARIBBEAN_BREW" = "St Austell";
+"CARIBBEAN_IBU" = "14";
+"CARIBBEAN_COLOR" = "BLONDE";
+"CARIBBEAN_PIC" = "caribbean";
+
+/*
+IPA
+*/
+
+"IPA_NAME" = "Indian Pale Ale";
+"IPA_DESC" = "India pale ale is a hoppy beer style with high levels of alcohol. The export style of pale ale, which had become known as India pale ale, was developed in England around 1840 and later became a popular product there.";
+"IPA_BREW" = "Where Every";
+"IPA_IBU" = "21";
+"IPA_COLOR" = "BLONDE";
+"IPA_PIC" = "ipa";
+
+/*
+PORTER
+*/
+
+"PORTER_NAME" = "Porter";
+"PORTER_DESC" = "A type of ale, porter beers are known for their dark black color and roasted malt aroma and notes. Porters may be fruity or dry in flavor, which is determined by the variety of roasted malt used in the brewing process.";
+"PORTER_BREW" = "Alpes";
+"PORTER_IBU" = "18";
+"PORTER_COLOR" = "DARK";
+"PORTER_PIC" = "porter";
